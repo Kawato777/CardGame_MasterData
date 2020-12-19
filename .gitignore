@@ -1,0 +1,8 @@
+Fonts
+Images
+Not Mine
+Scenes
+Scripts
+*.meta
+/Resources/*
+!/Resources/CardEntityList
