@@ -1,5 +1,6 @@
 Fonts
-Images
+/Images/*
+!/Images/CardIconEntityList
 Not Mine
 Scenes
 Scripts
