@@ -9,12 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e9ef50e87b372346b88fec821382daf, type: 3}
-  m_Name: ID_1
+  m_Script: {fileID: 11500000, guid: eb97ebc50993da04784700b54e5a154b, type: 3}
+  m_Name: CardIcon_2
   m_EditorClassIdentifier: 
-  cardID: 1
-  name: "\u6C37\u306E\u5973\u738B"
-  cost: 4
-  power: 2
-  hp: 3
-  icon: {fileID: 21300000, guid: 2e36d83ba3b89b246ab07f999208f954, type: 3}
+  icon: {fileID: 21300000, guid: 34bb1d0c625abc44690c74703ed814ea, type: 3}
