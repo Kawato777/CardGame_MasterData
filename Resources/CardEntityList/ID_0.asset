@@ -18,3 +18,4 @@ MonoBehaviour:
   power: 1
   hp: 1
   icon: {fileID: 21300000, guid: 6965f9e0c6ef371478470d50378de395, type: 3}
+  text: "\u6843\u304B\u3089\u751F\u307E\u308C\u305F\u6843\u592A\u90CE\u3002\u3044\u3064\u3067\u3082\u9811\u5F35\u308B\u3002\r"
