@@ -7,3 +7,4 @@ Scripts
 *.meta
 /Resources/*
 !/Resources/CardEntityList
+Plugins
